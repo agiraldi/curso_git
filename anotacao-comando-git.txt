@@ -1,0 +1,12 @@
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
+
+git init - Adicionar uma pasta
+git ls-files - Arquivos que estão sobre controle de versão
+git clone <url> - Clonando o projeto
+Posso usar a URL que o Bitbucket cria ou baiar a url do github colocando .git no final
+https://github.com/agiraldi/curso_java.git
+git tag - Visualizr as versões de um projeto
+git checkout <tag da versão> - Trocando de versão
+git diff <v inicial> <v comparar> - Diferença entre versões
+git add -1 - Adiciona de moto interativo
