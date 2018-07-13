@@ -10,3 +10,15 @@ git tag - Visualizr as versões de um projeto
 git checkout <tag da versão> - Trocando de versão
 git diff <v inicial> <v comparar> - Diferença entre versões
 git add -1 - Adiciona de moto interativo
+git log - exibe os commits feitos
+git whatchange - além dos commits, arquivos alterados
+git remote ad origin <URL> -- Subir repositorio local para remoto
+
+git branch - Lista as branch do repositório local e a que estiver com * é a principal
+git branch -r - Lista as branch do repositório remoto
+git branch <nome branch> -- Cria nova branch
+git checkout <nome branch> -- Muda a branch de trabalho
+
+git branch -t <nome branch> <origin/nome branch> -- Criar branch remota no repositorio local
+
+t checkout -b <noem branch> -- Cria e ja muda a para a nova branch
