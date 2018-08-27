@@ -14,6 +14,8 @@ git log - exibe os commits feitos
 git whatchange - além dos commits, arquivos alterados
 git remote ad origin <URL> -- Subir repositorio local para remoto
 
+git push - Sobe as alteraç;oes do repositorio local para o remoto
+
 git branch - Lista as branch do repositório local e a que estiver com * é a principal
 git branch -r - Lista as branch do repositório remoto
 git branch <nome branch> -- Cria nova branch
